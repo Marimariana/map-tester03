@@ -131,7 +131,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/..\/Tiles\/Calle01.png",
+         "image":"Calle01.png",
          "imageheight":944,
          "imagewidth":1025,
          "margin":0,
@@ -144,7 +144,7 @@
         {
          "columns":32,
          "firstgid":929,
-         "image":"..\/..\/Tiles\/Calle02.png",
+         "image":"Calle02.png",
          "imageheight":944,
          "imagewidth":1025,
          "margin":0,
@@ -157,7 +157,7 @@
         {
          "columns":31,
          "firstgid":1857,
-         "image":"..\/..\/Tiles\/Elementos bloq.png",
+         "image":"Elementos bloq.png",
          "imageheight":608,
          "imagewidth":1008,
          "margin":0,
