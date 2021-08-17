@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/www.youtube.com\/embed\/iNkA8e1BC-Q?start=13"
+                 "value":"www.youtube.com/embed/iNkA8e1BC-Q?start=13"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -61,6 +61,12 @@
          "id":4,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"soundcloud.com/captainzaman/leman-sam-mavi-tango-mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
